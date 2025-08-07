@@ -1,0 +1,5 @@
+[[headers]]
+for = "/popup.js"
+[headers.values]
+  Access-Control-Allow-Origin = "*"
+  Content-Type = "application/javascript"
